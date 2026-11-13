@@ -1,0 +1,8 @@
+edu.iau.cshj.studyplanner.app-pngs-0 C:\Users\azzzz\AndroidStudioProjects\CSC402Lab33\app\build\generated\res\pngs\debug
+edu.iau.cshj.studyplanner.app-updated_navigation_xml-1 C:\Users\azzzz\AndroidStudioProjects\CSC402Lab33\app\build\generated\updated_navigation_xml\debug
+edu.iau.cshj.studyplanner.app-packageDebugResources-2 C:\Users\azzzz\AndroidStudioProjects\CSC402Lab33\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+edu.iau.cshj.studyplanner.app-packageDebugResources-3 C:\Users\azzzz\AndroidStudioProjects\CSC402Lab33\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+edu.iau.cshj.studyplanner.app-debug-4 C:\Users\azzzz\AndroidStudioProjects\CSC402Lab33\app\build\intermediates\merged_res\debug\mergeDebugResources
+edu.iau.cshj.studyplanner.app-debug-5 C:\Users\azzzz\AndroidStudioProjects\CSC402Lab33\app\src\debug\res
+edu.iau.cshj.studyplanner.app-main-6 C:\Users\azzzz\AndroidStudioProjects\CSC402Lab33\app\src\main\res
+gradleHome-0 C:\Users\azzzz\.gradle
